@@ -49,3 +49,8 @@ export default tseslint.config({
 })
 ```
 # DarkMatter
+
+https://www.smashingmagazine.com/2022/01/building-web-code-editor/
+https://vitepress.dev/guide/getting-started
+https://davidwells.io/typography/_rehype-pretty-code
+https://rehype-pretty.pages.dev/
