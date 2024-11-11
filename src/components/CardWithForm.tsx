@@ -49,9 +49,14 @@ export function CardWithForm() {
             </div>
           </div>
         </form>
-        <code className="text-white mb-4 mt-6 max-h-[650px] overflow-x-auto rounded-lg border bg-zinc-950 py-4 dark:bg-zinc-900" data-language="tsx" data-theme="default">
-          test
-        </code>
+        <div className="w-full mt-6 mb-4 overflow-x-auto">
+          <pre className="w-full p-4 text-white rounded-lg bg-zinc-950 dark:bg-zinc-900">
+            <code className="text-sm">
+              test
+              tesssssssssssssssssssss
+            </code>
+          </pre>
+        </div>
       </CardContent>
       <CardFooter className="flex justify-between">
         <Button variant="outline">Cancel</Button>
